@@ -1,16 +1,8 @@
 import {
   Navbar,
   Nav,
-  NavDropdown,
   Container,
-  Form,
-  FormControl,
-  Button,
 } from "react-bootstrap";
-import Home from "../../pages/home/Home";
-import Users from "../../pages/users/Users";
-import AddUser from "../../pages/users/AddUser";
-import User from "../../pages/users/User";
 import { Link } from "react-router-dom";
 
 function NabBar() {
